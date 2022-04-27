@@ -8,4 +8,4 @@ We load a dataset using Pandas library, and apply the following algorithms :
 - Support Vector Machine
 - Logistic Regression
 
- Then use the test set to report the accuracy of the model You should use the following algorithm:
+ Then use the test set to report the accuracy of the model You should use .
